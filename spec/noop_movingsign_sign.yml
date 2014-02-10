@@ -1,0 +1,7 @@
+# Configuration file for testing
+#
+# Sets up MovingsignApi::Sign to be no-ops...enabling testings + validation without LED Signs being attached
+
+---
+script: noop_movingsign_sign.rb
+parameters:

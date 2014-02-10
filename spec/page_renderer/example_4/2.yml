@@ -1,0 +1,12 @@
+lines: 4
+signs:
+- content: |-
+    ALERT ALERT
+    ALERT ALERT
+    ALERT ALERT
+    ALERT ALERT
+- content: |-
+    ALERT 1
+    ALERT 2
+    ALERT 3
+    ALERT 4

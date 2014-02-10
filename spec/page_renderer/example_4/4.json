@@ -1,0 +1,9 @@
+{
+  "lines": 2,
+  "signs": [
+    { "content": "ALERT ALERT\nALERT ALERT" },
+    { "content": "ALERT 1\nALERT 4" },
+    { "content": "ALERT 2\n " },
+    { "content": "ALERT 3\n " }
+  ]
+}

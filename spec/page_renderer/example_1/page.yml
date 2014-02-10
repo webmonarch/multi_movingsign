@@ -1,0 +1,27 @@
+---
+title: Top Drinkers
+lines:
+- prefix: '1. '
+  content:
+  - mikey
+  - 445 pints
+- prefix: '2. '
+  content:
+  - capn
+  - 183 pints
+- prefix: '3. '
+  content:
+  - eric
+  - 122 pints
+- prefix: '4. '
+  content:
+  - whitey
+  - 114 pints
+- prefix: '5. '
+  content:
+  - justin
+  - 110 pints
+- prefix: '6. '
+  content:
+  - scarfjerk
+  - 109 pints
